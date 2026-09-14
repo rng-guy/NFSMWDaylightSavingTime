@@ -161,7 +161,7 @@
     <Text Include="README.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="Thumbnail.png" />
+    <Image Include="Thumbnail.jpg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

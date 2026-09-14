@@ -36,7 +36,7 @@
     </Text>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="Thumbnail.png">
+    <Image Include="Thumbnail.jpg">
       <Filter>Docs</Filter>
     </Image>
   </ItemGroup>
