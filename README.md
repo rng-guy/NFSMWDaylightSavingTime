@@ -53,7 +53,7 @@ The **sections below** address these questions in detail:
 
 All **[VltEd](https://nfs-tools.blogspot.com/2019/02/nfs-vlted-v46-released.html) and [Binary](https://github.com/SpeedReflect/Binary/releases) mods** should be fully compatible with DST. 
 
-Almost all  **other `.asi` mods** should be fully compatible with DST configurations.
+Almost all  **other `.asi` mods** should be fully compatible with DST.
 
 &nbsp;
 
