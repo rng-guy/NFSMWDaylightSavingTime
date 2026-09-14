@@ -65,4 +65,4 @@ Almost all  **other `.asi` mods** should be fully compatible with DST.
 
 # 3 - How may I share or bundle DST?
 
-You are free to bundle DST and its files with your own mod, **no credit required**. In the interest of code transparency, however, consider linking to [DST's GitHub repository](https://github.com/rng-guy/NFSMWDaylightSavingTime) somewhere in your mod's documentation (e.g. README).
+You are free to bundle DST and its files with your own mod, **no credit required**. In the interest of code transparency, however, consider linking to [DST's GitHub repository](https://github.com/rng-guy/NFSMWDaylightSavingTime) in your mod's documentation (e.g. README).
