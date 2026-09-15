@@ -1,5 +1,5 @@
 ﻿
-── ■ │ WHAT IS NFSMW DAYLIGHTSAVINGTIME? (v1.00.00) │ ■ ───────────────────────────────────────────
+── ■ │ WHAT IS NFSMW DAYLIGHTSAVINGTIME? (v1.00.01) │ ■ ───────────────────────────────────────────
 
 VIEW THIS FILE on GitHub: https://github.com/rng-guy/NFSMWDaylightSavingTime
 
@@ -64,3 +64,4 @@ In the interest of code transparency, however, consider linking to DST's GitHub 
 ── ■ │ 4 - WHAT CHANGED IN EACH VERSION OF DST? │ ■ ───────────────────────────────────────────────
 
 v1.00.00: Initial release
+      01: Adjusted formatting in places

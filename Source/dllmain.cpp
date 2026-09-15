@@ -45,7 +45,7 @@ using MemoryTools::AsFunction;
 [[nodiscard]] static float __cdecl GetTimeScale()
 {
 	const auto IsPaused = AsFunction<bool __cdecl ()>(0x468390);
-	if (IsPaused()) return 0.f; // do not increment time of day
+	if (IsPaused()) return 0.f; // do not progress time of day
 
 	const address simSystem = AsReference<address>(0x9885E0);
 	return (simSystem) ? AsReference<float>(simSystem + 0x24) : 1.f;
@@ -57,7 +57,7 @@ using MemoryTools::AsFunction;
 
 // Assembly detours ---------------------------------------------------------------------------------------------------------------------------------
 
-// Updates time-of-day progression, compensating for time dilation
+// Updates time of day, accounting for pausing and the Speedbreaker's time dilation
 ASSEMBLY_DETOUR(TimeOfDayUpdate, /* begin = */ 0x7693AF, /* end = */ 0x7693B6)
 {
 	__asm
