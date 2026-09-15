@@ -31,7 +31,7 @@ The **sections below** address these questions in detail:
 &nbsp;
 
 **To install** DST:
-1. download and extract the [`NfSMW_DaylightSavingTime_v1.00.0.7z`](https://github.com/rng-guy/NFSMWDaylightSavingTime/releases/latest) archive;
+1. download and extract the [`NfSMW_DaylightSavingTime_v1.00.1.7z`](https://github.com/rng-guy/NFSMWDaylightSavingTime/releases/latest) archive;
 2. copy DST's `scripts` folder to your game's folder, replacing existing files; and
 3. if DST's `.asi` file gets flagged by your antivirus software, whitelist the file.
 
