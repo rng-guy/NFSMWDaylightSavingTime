@@ -1,11 +1,12 @@
 ﻿
-── ■ │ WHAT IS NFSMW DAYLIGHTSAVINGTIME? (v1.00.01) │ ■ ───────────────────────────────────────────
+── ■ │ WHAT IS NFSMW DAYLIGHTSAVINGTIME? (v1.00.02) │ ■ ───────────────────────────────────────────
 
 VIEW THIS FILE on GitHub: https://github.com/rng-guy/NFSMWDaylightSavingTime
 
 DaylightSavingTime (DST) fixes the time-of-day progression:
  • the time of day no longer advances whenever the game is paused, and
  • the time of day no longer ignores the Speedbreaker's time dilation.
+This also stops shadows from moving in pause menus or photo finishes.
 
 The SECTIONS BELOW address these questions in detail:
  1) • How do I install DST for my game?
@@ -65,3 +66,4 @@ In the interest of code transparency, however, consider linking to DST's GitHub 
 
 v1.00.00: Initial release
       01: Adjusted formatting in places
+      02: Clarified mod purpose in README

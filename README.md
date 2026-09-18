@@ -5,6 +5,8 @@ DaylightSavingTime (DST) fixes the **time-of-day progression** in *Need for Spee
 * the time of day no longer advances whenever the game is paused, and
 * the time of day no longer ignores the Speedbreaker's time dilation.
 
+This also stops shadows from moving in pause menus or photo finishes.
+
 &nbsp;
 
 The **sections below** address these questions in detail:
@@ -31,7 +33,7 @@ The **sections below** address these questions in detail:
 &nbsp;
 
 **To install** DST:
-1. download and extract the [`NfSMW_DaylightSavingTime_v1.00.1.7z`](https://github.com/rng-guy/NFSMWDaylightSavingTime/releases/latest) archive;
+1. download and extract the [`NfSMW_DaylightSavingTime_v1.00.2.7z`](https://github.com/rng-guy/NFSMWDaylightSavingTime/releases/latest) archive;
 2. copy DST's `scripts` folder to your game's folder, replacing existing files; and
 3. if DST's `.asi` file gets flagged by your antivirus software, whitelist the file.
 
