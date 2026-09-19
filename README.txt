@@ -3,7 +3,7 @@
 
 VIEW THIS FILE on GitHub: https://github.com/rng-guy/NFSMWDaylightSavingTime
 
-DaylightSavingTime (DST) fixes the time-of-day progression:
+DaylightSavingTime (DST) fixes the TIME-OF-DAY PROGRESSION:
  • the time of day no longer advances whenever the game is paused, and
  • the time of day no longer ignores the Speedbreaker's time dilation.
 This also stops shadows from moving in pause menus or photo finishes.
