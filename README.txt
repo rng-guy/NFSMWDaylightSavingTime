@@ -1,5 +1,5 @@
 ﻿
-── ■ │ WHAT IS NFSMW DAYLIGHTSAVINGTIME? (v1.00.02) │ ■ ───────────────────────────────────────────
+── ■ │ WHAT IS NFSMW DAYLIGHTSAVINGTIME? (v1.00.03) │ ■ ───────────────────────────────────────────
 
 VIEW THIS FILE on GitHub: https://github.com/rng-guy/NFSMWDaylightSavingTime
 
@@ -23,7 +23,7 @@ The SECTIONS BELOW address these questions in detail:
 
 BEFORE INSTALLING DST:
  1) • read and understand the section about mod (in)compatibilities below,
- 2) • make sure your original copy of the game isn't a repack or came pre-modified in any way,
+ 2) • make sure your cracked copy of the game isn't a repack or came pre-modified in any way,
  3) • make sure your game's "speed.exe" is compatible (i.e. 5.75 MB / 6,029,312 bytes large), and
  4) • install an .asi loader or any mod with one (e.g. the "WideScreenFix" mod by ThirteenAG).
 
@@ -67,3 +67,4 @@ In the interest of code transparency, however, consider linking to DST's GitHub 
 v1.00.00: Initial release
       01: Adjusted formatting in places
       02: Clarified mod purpose in README
+      03: Updated installation instructions
