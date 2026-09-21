@@ -1,7 +1,7 @@
 
 ![Saving energy since the 1910s!](Thumbnail.jpg "Took more effort than you'd hope...")
 
-DaylightSavingTime (DST) fixes the **time-of-day progression** in *Need for Speed: Most Wanted* (2005):
+DaylightSavingTime (DST) **fixes the time-of-day progression** in *Need for Speed: Most Wanted* (2005):
 * the time of day no longer advances whenever the game is paused, and
 * the time of day no longer ignores the Speedbreaker's time dilation.
 
