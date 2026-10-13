@@ -11,8 +11,8 @@ This also stops shadows from moving in pause menus or photo finishes.
 The SECTIONS BELOW address these questions in detail:
  1) • How do I install DST for my game?
  2) • Which mods are (in)compatible with DST?
- 3) • How may I share or bundle DST?
- 4) • What changed in each version of DST?
+ 3) • How may I share or bundle          DST?
+ 4) • What changed in each version of    DST?
 
 
 
