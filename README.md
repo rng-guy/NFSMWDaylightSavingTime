@@ -33,7 +33,7 @@ The **sections below** address these questions in detail:
 &nbsp;
 
 **To install** DST:
-1. download and extract the [`NfSMW_DaylightSavingTime_v1.00.3.7z`](https://github.com/rng-guy/NFSMWDaylightSavingTime/releases/latest) archive;
+1. download and extract the [`NfSMW_DaylightSavingTime_v1.00.4.7z`](https://github.com/rng-guy/NFSMWDaylightSavingTime/releases/latest) archive;
 2. copy DST's `scripts` folder to your game's folder, replacing existing files; and
 3. if DST's `.asi` file gets flagged by your antivirus software, whitelist the file.
 
@@ -67,4 +67,4 @@ Almost all  **other `.asi` mods** should be fully compatible with DST.
 
 # 3 - How may I share or bundle DST?
 
-You are free to bundle DST and its files with your own mod, **no credit required**. In the interest of code transparency, however, consider linking to [DST's GitHub repository](https://github.com/rng-guy/NFSMWDaylightSavingTime) in your mod's documentation (e.g. README).
+You're free to bundle DST and its files with your own mod(s), **no credit required**.

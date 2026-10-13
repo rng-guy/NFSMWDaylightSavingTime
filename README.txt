@@ -1,5 +1,5 @@
 ﻿
-── ■ │ WHAT IS NFSMW DAYLIGHTSAVINGTIME? (v1.00.03) │ ■ ───────────────────────────────────────────
+── ■ │ WHAT IS NFSMW DAYLIGHTSAVINGTIME? (v1.00.04) │ ■ ───────────────────────────────────────────
 
 VIEW THIS FILE on GitHub: https://github.com/rng-guy/NFSMWDaylightSavingTime
 
@@ -53,9 +53,7 @@ Almost all OTHER .ASI MODS should be fully compatible with DST.
 
 ── ■ │ 3 - HOW MAY I SHARE OR BUNDLE DST? │ ■ ─────────────────────────────────────────────────────
 
-You are free to bundle DST and its files with your own mod, NO CREDIT REQUIRED. 
-In the interest of code transparency, however, consider linking to DST's GitHub repository 
-(https://github.com/rng-guy/NFSMWDaylightSavingTime) in your mod's documentation (e.g. README).
+You're free to bundle DST and its files with your own mod(s), NO CREDIT REQUIRED.
 
 
 
@@ -68,3 +66,4 @@ v1.00.00: Initial release
       01: Adjusted formatting in places
       02: Clarified mod purpose in README
       03: Updated installation instructions
+      04: Updated attribution notice
