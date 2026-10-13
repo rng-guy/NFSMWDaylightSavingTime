@@ -67,4 +67,4 @@ Almost all  **other `.asi` mods** should be fully compatible with DST.
 
 # 3 - How may I share or bundle DST?
 
-You're free to bundle DST and its files with your own mod(s), **no credit required**.
+You're free to bundle DST and its files with your own mod(s); **no credit required**.
