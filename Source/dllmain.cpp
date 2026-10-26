@@ -42,7 +42,7 @@ using MemoryTools::AsFunction;
 
 // Auxiliary functions ------------------------------------------------------------------------------------------------------------------------------
 
-[[nodiscard]] static float __cdecl GetTimeScale()
+[[nodiscard]] float __cdecl GetTimeScale()
 {
 	const auto IsPaused = AsFunction<bool __cdecl ()>(0x468390);
 	if (IsPaused()) return 0.f; // do not progress time of day
