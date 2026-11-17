@@ -87,16 +87,10 @@ BOOL WINAPI DllMain
 	const DWORD     fdwReason,
 	const LPVOID    lpvReserved
 ) {
-	if (fdwReason != DLL_PROCESS_ATTACH) return TRUE;
-
-	if (MemoryTools::GetEntryPoint() != 0x3C4040) // .exe-dependent entry point
-	{
-		MessageBoxA(NULL, "This .exe isn't compatible with DST.\nSee DST's README for help.", "NFSMW DaylightSavingTime", MB_ICONERROR);
-
-		return FALSE; // should never happen (assuming the user has actually read the README, which... yeah...)
-	}
+	if (fdwReason != DLL_PROCESS_ATTACH)             return true;
+	if (not MemoryTools::AssertEntryPoint(0x3C4040)) return false;
 
 	PATCH_ASSEMBLY_DETOUR(TimeOfDayUpdate);
 
-	return TRUE;
+	return true;
 }

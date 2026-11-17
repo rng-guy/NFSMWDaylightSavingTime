@@ -1,5 +1,5 @@
 ﻿
-── ■ │ WHAT IS NFSMW DAYLIGHTSAVINGTIME? (v1.00.04) │ ■ ───────────────────────────────────────────
+── ■ │ WHAT IS NFSMW DAYLIGHTSAVINGTIME? (v1.00.05) │ ■ ───────────────────────────────────────────
 
 VIEW THIS FILE on GitHub: https://github.com/rng-guy/NFSMWDaylightSavingTime
 
@@ -67,3 +67,4 @@ v1.00.00: Initial release
       02: Clarified mod purpose in README
       03: Updated installation instructions
       04: Updated attribution notice
+      05: Improved mod internals and error handling
